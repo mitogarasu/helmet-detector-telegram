@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+myenv/
+.env
+
+# Outputs
+alerts/
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+
+# OS
+.DS_Store
